@@ -79,28 +79,40 @@ args += [
     "--text-format", "html",
     # TODO? move these config items to 000-config.py
     "--doc-modified", doc_modified,
-]
-
-
-todo_args = [
-    "--doc-title", "",
-    "--doc-subtitle", "",
+    "--doc-title", "Das Komplott",
+    # "--doc-subtitle", "",
     # "--doc-subject", "",
-    "--doc-date", "2025",
+    "--doc-date", "2024-09-28",
     "--doc-edition", "1",
-    "--doc-extent", "123 pages",
-    "--color-image-pages", "124,125",
-    "--doc-author", "",
+    "--doc-extent", "138 pages",
+    "--color-image-pages", "139,140",
+    "--doc-author", "Wolfgang Eggert",
     # "--doc-introducer", "",
     # "--doc-contributor", "",
     # "--doc-translator", "",
-    "--doc-publisher", "",
+    "--doc-publisher", "BoD – Books on Demand",
     "--doc-language", "de", # german
     # "--doc-language", "en", # english
-    "--doc-isbn", "0000000000000",
-    "--doc-cover-image", "075-level/999.tiff",
-    "--canonical-url-base", "https://TODO_REPO_OWNER_USERNAME.github.io/TODO_REPO_NAME/",
+    "--doc-isbn", "9783759796462",
+    "--doc-cover-image", "075-level/139.tiff",
+    "--canonical-url-base", "https://milahu.github.io/wolfgang-eggert-das-komplott-2024/",
     "--doc-description", """
+Sicherheitsexperten stimmen darin überein,
+daß die Schüsse auf Donald Trump in Butler/Pennsylvania
+erst durch Polizeiversagen möglich wurden.
+
+Gleichzeitig lassen Größe und Gemengelage der Pannen den Gedanken,
+die Beamten der unterschiedlichen Polizeieinheiten hätten -
+jeder für sich und alle zusammen - einfach nur einen "schlechten Tag" gehabt,
+als abwegig erscheinen.
+
+Somit steht der beunruhigende Gedanke im Raum,
+daß am 13.7.2024 staatliche Manöver im Spiel waren.
+
+Welche das gewesen sein könnten, und von wem sie ausgegangen sein mögen -
+das sind die Fragen, denen sich das Buch in kriminalistischer Manier zuwendet.
+
+Dabei werden ungewöhnliche Spuren und Verbindungen freigelegt.
 """,
 ]
 

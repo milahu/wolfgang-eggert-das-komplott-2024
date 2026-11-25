@@ -1,6 +1,6 @@
 # TODO set config values
 
-num_pages = 592
+num_pages = 138
 
 color_pages = []
 
@@ -14,13 +14,19 @@ max_scan_width_mm = 215.88
 max_scan_height_mm = 355.567
 
 # physical page size (before unbinding)
-page_width_mm = 124
-page_height_mm = 190
-pages_block_depth_mm = 0
+page_width_mm = 148
+page_height_mm = 210
+pages_block_depth_mm = 9.05
+
+# physical book size
+book_width_mm = page_width_mm + 0.5 # add 0.5 mm for the softcover glue binding
+book_height_mm = page_height_mm
+# book_depth_mm = pages_block_depth_mm + 0.6 # add 0.6 mm for the softcover front and back
+book_depth_mm = 9.65
 
 # physical page width after unbinding
 # unbinding removes a small strip (about 5 mm width) from the inside edge
-unbinded_page_width_mm = page_width_mm - 5 # 5 mm width was removed
+unbinded_page_width_mm = 146
 
 # TODO use 4 unbinded widths:
 # 1. top width of the first page
@@ -53,7 +59,7 @@ text_block_height_mm = 0
 # scan_top_edge = "inside"
 # scan_top_edge = "top"
 # scan_top_edge = "bottom"
-scan_top_edge = "inside"
+scan_top_edge = "top"
 
 # Less clearance than this makes the outside edge unreliable for detection.
 outside_edge_detection_min_margin_mm = 2.0

@@ -1,12 +1,46 @@
-# TODO_BOOK_AUTHOR_NAME_YEAR
+# Wolfgang Eggert - Das Komplott (2024)
 
-![TODO_BOOK_AUTHOR_NAME_YEAR](cover.avif)
+![Wolfgang Eggert - Das Komplott (2024)](cover.avif)
 
-TODO_BOOK_STORE_URL
+https://www.amazon.de/dp/375979646X
 
 <blockquote>
 
-TODO_BOOK_STORE_DESCRIPTION
+Das Komplott
+
+Wolfgang Eggert (Author)
+
+4.3 out of 5 stars, 18 ratings
+
+Sicherheitsexperten stimmen darin überein,
+daß die Schüsse auf Donald Trump in Butler/Pennsylvania
+erst durch Polizeiversagen möglich wurden.
+
+Gleichzeitig lassen Größe und Gemengelage der Pannen den Gedanken,
+die Beamten der unterschiedlichen Polizeieinheiten hätten -
+jeder für sich und alle zusammen - einfach nur einen "schlechten Tag" gehabt,
+als abwegig erscheinen.
+
+Somit steht der beunruhigende Gedanke im Raum,
+daß am 13.7.2024 staatliche Manöver im Spiel waren.
+
+Welche das gewesen sein könnten, und von wem sie ausgegangen sein mögen -
+das sind die Fragen, denen sich das Buch in kriminalistischer Manier zuwendet.
+
+Dabei werden ungewöhnliche Spuren und Verbindungen freigelegt.
+
+- Publisher: BoD – Books on Demand
+- Publication date: 2024-09-28
+- Edition: 1st
+- Language: German
+- Print length: 138 pages
+- ISBN-10: 375979646X
+- ISBN-13: 9783759796462
+- Format: Paperback
+- Dimensions: 14.8 x 1 x 21 cm
+- Best Sellers Rank:
+  - 342,321 in Books
+  - 35,344 in History (Books)
 
 </blockquote>
 
@@ -20,11 +54,11 @@ TODO_BOOK_TORRENT_MAGNET_LINK
 
 ## mirrors
 
-- https://github.com/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
+- https://github.com/milahu/wolfgang-eggert-das-komplott-2024
+- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/wolfgang-eggert-das-komplott-2024
+- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/wolfgang-eggert-das-komplott-2024
+- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/wolfgang-eggert-das-komplott-2024
+- http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/milahu/wolfgang-eggert-das-komplott-2024
 
 
 
